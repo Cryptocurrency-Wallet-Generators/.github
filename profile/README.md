@@ -12,7 +12,7 @@ Our organization currently maintains the following cryptocurrency wallet generat
 
 ### [Bitcoin Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/bitcoin-generate-wallets)
 
-A Python-based Bitcoin wallet generator that creates:
+A JavaScript-based Bitcoin wallet generator that creates:
 - Legacy addresses
 - Mnemonic wallets (BIP39)
 - BIP32 wallets
@@ -20,12 +20,12 @@ A Python-based Bitcoin wallet generator that creates:
 
 ### [Ethereum Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/ethereum-generate-wallets)
 
-A blazing fast Ethereum wallet generator written in Go that offers:
+A blazing fast Ethereum wallet generator written in JavaScript that offers:
 - Vanity address generation (custom prefixes, suffixes, patterns)
-- High-performance output (100k+ wallets/sec in private key mode)
+- High-performance output
 - Support for 12 or 24-word mnemonic seed phrases
-- SQLite database integration for wallet management
-- Concurrency options for faster generation
+- Wallet management capabilities
+- Customizable generation options
 
 ### [Solana Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/solana-generate-wallets)
 
@@ -72,7 +72,7 @@ We welcome contributions to any of our wallet generators! If you'd like to contr
 
 ## 📄 License
 
-Each project in our organization has its own license. Please refer to the specific repository for license information.
+All projects in our organization are licensed under the MIT License, which allows for free use, modification, and distribution with proper attribution.
 
 ## 📞 Contact
 
