@@ -36,6 +36,42 @@ A command-line tool for generating Solana wallets with features including:
 - Batch generation capabilities
 - Results export to text files
 
+### [XRP Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/xrp-generate-wallets)
+
+A robust XRP wallet generator that provides:
+- XRP address and secret key generation
+- Support for mnemonic seed phrases
+- Paper wallet export functionality
+- Optional encryption for wallet files
+- Batch generation capabilities
+
+### [Dogecoin Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/dogecoin-generate-wallets)
+
+A user-friendly Dogecoin wallet generator featuring:
+- DOGE address and private key creation
+- Mnemonic phrase support
+- Paper wallet export options
+- Vanity address generation
+- Wallet backup and recovery tools
+
+### [Cardano Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/cardano-generate-wallets)
+
+A comprehensive Cardano wallet generator offering:
+- Generation of ADA addresses and private keys
+- Support for Shelley-era addresses
+- HD wallet functionality with mnemonic phrases
+- Stake address generation
+- Integration with Cardano network standards
+
+### [Tron Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/tron-generate-wallets)
+
+A powerful Tron wallet generator that includes:
+- TRX address and private key generation
+- Support for TRC10 and TRC20 tokens
+- Mnemonic phrase generation and recovery
+- Batch wallet creation
+- Export options for secure storage
+
 ### [Telegram Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/telegram-generate-wallets)
 
 A Telegram bot interface for generating cryptocurrency wallets, offering:
