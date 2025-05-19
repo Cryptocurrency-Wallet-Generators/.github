@@ -1,1 +1,1 @@
-# .github
+# Cryptocurrency-Wallet-Generators Organization Readme
