@@ -20,12 +20,11 @@ A JavaScript-based Bitcoin wallet generator that creates:
 
 ### [Ethereum Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/ethereum-generate-wallets)
 
-A blazing fast Ethereum wallet generator written in JavaScript that offers:
-- Vanity address generation (custom prefixes, suffixes, patterns)
-- High-performance output
-- Support for 12 or 24-word mnemonic seed phrases
-- Wallet management capabilities
-- Customizable generation options
+A JavaScript-based Ethereum wallet generator that:
+- Generates 50 Ethereum wallets along with their associated 12-word mnemonic phrases
+- Saves all generated wallets and secrets in a file named `ethereum_wallets.json`
+- Designed to be run via GitHub Actions for secure, automated wallet generation
+- Repository should be set to private to protect generated secrets
 
 ### [Solana Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/solana-generate-wallets)
 
