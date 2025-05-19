@@ -21,7 +21,7 @@ A JavaScript-based Bitcoin wallet generator that creates:
 ### [Ethereum Wallet Generator](https://github.com/Cryptocurrency-Wallet-Generators/ethereum-generate-wallets)
 
 A JavaScript-based Ethereum wallet generator that:
-- Generates 50 Ethereum wallets along with their associated 12-word mnemonic phrases
+- Generates 50 Ethereum wallets along with their associated 24-word mnemonic phrases
 - Saves all generated wallets and secrets in a file named `ethereum_wallets.json`
 - Designed to be run via GitHub Actions for secure, automated wallet generation
 - Repository should be set to private to protect generated secrets
